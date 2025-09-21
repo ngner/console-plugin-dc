@@ -3,15 +3,15 @@ import Helmet from 'react-helmet';
 import { useTranslation } from 'react-i18next';
 import { Content, PageSection, Title } from '@patternfly/react-core';
 import { CheckCircleIcon } from '@patternfly/react-icons';
-import './example.css';
+import './CSP.css';
 
-export default function ExamplePage() {
+export default function CSPPage() {
   const { t } = useTranslation('plugin__console-plugin-template');
 
   return (
     <>
       <Helmet>
-        <title data-test="example-page-title">{t('Hello, Plugin!')}</title>
+        <title data-test="CSP-page-title">{t('Hello, Plugin!')}</title>
       </Helmet>
       <PageSection>
         <Title headingLevel="h1">{t('Hello, Plugin!')}</Title>
