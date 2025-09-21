@@ -3,6 +3,11 @@
 This project is a minimal template for writing a new OpenShift Console dynamic
 plugin.
 
+Also refer to 
+https://github.com/openshift/console/tree/main/frontend/packages/console-dynamic-plugin-sdk
+
+links to Kube Virt, Networking and other Plugins ^^
+
 [Dynamic plugins](https://github.com/openshift/console/tree/master/frontend/packages/console-dynamic-plugin-sdk)
 allow you to extend the
 [OpenShift UI](https://github.com/openshift/console)
