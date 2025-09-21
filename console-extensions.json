@@ -3,16 +3,16 @@
     "type": "console.page/route",
     "properties": {
       "exact": true,
-      "path": "/example",
-      "component": { "$codeRef": "ExamplePage" }
+      "path": "/csp",
+      "component": { "$codeRef": "CSPPage" }
     }
   },
   {
     "type": "console.navigation/href",
     "properties": {
-      "id": "example",
-      "name": "%plugin__console-plugin-template~Plugin Example%",
-      "href": "/example",
+      "id": "csp",
+      "name": "%plugin__console-plugin-template~CSP Example%",
+      "href": "/csp",
       "perspective": "admin",
       "section": "home"
     }

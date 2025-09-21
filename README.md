@@ -6,6 +6,8 @@ plugin.
 Also refer to 
 https://github.com/openshift/console/tree/main/frontend/packages/console-dynamic-plugin-sdk
 
+SDK sdk (find links)
+
 links to Kube Virt, Networking and other Plugins ^^
 
 [Dynamic plugins](https://github.com/openshift/console/tree/master/frontend/packages/console-dynamic-plugin-sdk)
